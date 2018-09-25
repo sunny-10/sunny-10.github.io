@@ -7,7 +7,7 @@ tags:
   - minimal-mistakes
 ---
 
-## >서론
+> ## 서론
 Github Pages상에 Jekyll 기반의 블로그 사이트 구축
 
 ## 준비작업
@@ -68,11 +68,3 @@ tags:
 # 카테고리, 태그 적용
 `minimal-mistakes`카테고리와 태그를 지원은 하지만 기본 설정되어 있지는 않다. `minimal-mistakes`의 [깃헙 페이지의 docs 폴더](https://github.com/mmistakes/minimal-mistakes/tree/master/docs) 를 참고하면 다양한 예제들을 가져올 수 있다. 해당 예제들은 [데모](https://mmistakes.github.io/minimal-mistakes/)로 제공되는 페이지의 코드들이다. 이 폴더의 `_pages` 하위 폴더의 `category-archive.html`와 `tag-archive.html`을 그대로 가져와서 `_pages`를 만들고 옮겨놓으면 된다.
 
-# 기타 적용
-`minimal-mistakes`의 [데모](https://mmistakes.github.io/minimal-mistakes/)를 참조하고 사용하고 싶은 기능이 있으면, 앞서 언급했던 [깃헙 페이지의 docs 폴더](https://github.com/mmistakes/minimal-mistakes/tree/master/docs) 의 코드를 참고하면 된다.
-
-# 마치며
-시행착오를 많이 격으면서 Jekyll 블로그를 구축했던 터라, 중간중간 빠진 부분이 있을 수 있다. 빠진 부분은 `minimal-mistakes`, `Jekyll` 의 공식 가이드를 참고하면 된다. 구축 전에 꼭 공식 가이드를 읽어보고 한번 차근차근 머릿속으로 정리해보고 나서 시도해보는게 좋을 것 같다. 다른 테마를 적용하길 원한다면 해당 테마의 가이드를 꼼꼼히 읽으면 큰 어려움 없이 적용할 수 있을 것이다.
-
-# (추가) Google 검색 콘솔에서 Sitemap 제출
-`jekyll-sitemap` 플러그인을 사용할 경우, `/sitemap.xml` 에 사이트맵이 생성된다. [구글 검색 콘솔](https://www.google.com/webmasters/tools/home) 에 해당 사이트맵을 제출하면 된다.
