@@ -37,6 +37,7 @@ Github Pages상에 Jekyll 기반의 블로그 사이트 구축
   - 메타데이터를 위한 yaml 부분
   - 본문을 위한 마크다운 부분
 - yaml은 md 파일의 머릿말에 적으면 된다. 아래가 그 예제이다.
+
 ```yaml
 ---
 title: Jekyll과 minimal-mistakes 테마를 이용한 블로그 생성
