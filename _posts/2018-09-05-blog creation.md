@@ -62,5 +62,5 @@ tags:
 - minimal-mistakes 테마는 카테고리와 태그를 지원은 하지만 기본 설정되어 있지는 않다. 
 - minimal-mistakes의 [깃헙 페이지의 docs 폴더](https://github.com/mmistakes/minimal-mistakes/tree/master/docs) 를 참고하면 다양한 예제들을 가져올 수 있다. 
 - 해당 예제들은 [데모](https://mmistakes.github.io/minimal-mistakes/)로 제공되는 페이지의 코드들이다. 
-- 이 폴더의 `_pages` 하위 폴더의 `category-archive.html`와 `tag-archive.html`을 그대로 가져와서 `_pages`를 만들고 옮겨놓으면 된다.
+- 이 폴더의 _pages 하위 폴더의 category-archive.html와 tag-archive.html을 그대로 가져와서 _pages를 만들고 옮겨놓으면 된다.
 
