@@ -13,11 +13,11 @@ tags:
 - Nvidia CUDA GPU. (사용하고 있는 GPU가 CUDA 호환인지는 [여기](https://developer.nvidia.com/cuda-gpus)에서 확인 가능)
 
 
->### Setting up your Nvidia GPU
+>### 1. Nvidia GPU 라이브러리 Setting
 
-You need to install Cuda Toolkit 8.0 and cuDNN v5.1 as the GPU version works best with these.
+- Cuda Toolkit 8.0 과 cuDNN v5.1 설치
 
-##Download and install CUDA Toolkit
+(1) CUDA Toolkit Download 및 install 
 Toolkit version 8.0 or above: https://developer.nvidia.com/cuda-downloads
 Example installation directory: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0
 
